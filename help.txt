@@ -1,0 +1,8 @@
+Files info - 
+Content of Main.py ->Main class for user input input and output
+Content of Utils.py -> All static and dynamic variables with  static input data
+Content of Roman_validation.py -> Different validation for checking roman number and its properties
+Content of Process.py -> Contains all the process to evaluate and calculate all mathmatical calculation regarding credits
+
+
+*Runs on Python 2.7 or more.
